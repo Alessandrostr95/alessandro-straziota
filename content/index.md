@@ -3,7 +3,7 @@ title: About Me
 author: Alessandro Straziota
 ---
 
-# How I am
+# Who I am
 Welcome, visitor!
 Let me introduce myself: as you can read in bold at the top-left of this page, my name is Alessandro Straziota, and I am a PhD student in Data Science at the [University of Rome Tor Vergata](https://web.uniroma2.it/).
 My main research interests (and my actual research work as PhD) lie in theoretical computer science, particularly in **Data Structures** and **Data Sketches**.
