@@ -22,7 +22,7 @@ For example, I enjoy painting miniatures (see [[images/minis/karazai_1.jpg|this]
 That's pretty much all I have to say, mostly because, unfortunately, my days only have 24 hours.
 And after sleeping and taking care of other basic needs, there's not much time left for additional hobbies.
 
-Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita with [buffalo mozzarella](https://en.wikipedia.org/wiki/Buffalo_mozzarella) 🍕, and I love beer🍺.[^1]
+Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita with [buffalo mozzarella](https://en.wikipedia.org/wiki/Buffalo_mozzarella) 🍕, and I love beer 🍺.[^1]
 
 # Education
 - **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata, 2021 -- summa cum laude
