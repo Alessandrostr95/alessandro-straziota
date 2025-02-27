@@ -22,22 +22,26 @@ For example, I enjoy painting miniatures (see [[images/minis/karazai_1.jpg|this]
 That's pretty much all I have to say, mostly because, unfortunately, my days only have 24 hours.
 And after sleeping and taking care of other basic needs, there's not much time left for additional hobbies.
 
-Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita with [buffalo mozzarella](https://en.wikipedia.org/wiki/Buffalo_mozzarella) 🍕, and I love beer 🍺.[^1]
+Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita with [mozzarella di bufala](https://en.wikipedia.org/wiki/Buffalo_mozzarella) 🍕, and I love beer 🍺.[^1]
 
-# Education
+## Education
 - **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata, 2021 -- summa cum laude
 - **Master's Degree in Computer Science**, University of Rome Tor Vergata, 2023 -- summa cum laude (average grade: 30/30)
 - **PhD in Data Science**, University of Rome Tor Vergata, 2023 - present
 
-# Pubblications
-- "**Graph Spanners for Group Steiner Distances.**" -- *ESA 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Alessandro Straziota.
-- "**Temporal Queries for Dynamic Temporal Forests.**" -- *ISAAC 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
+## Pubblications
+#### 2025
 - "**Maintaining $k$-MinHash Signatures over Fully-Dynamic Data Streams with Recovery.**" -- *WSDM 2025* -- Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota.
 - "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- under review -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri.
+#### 2024
+- "**Graph Spanners for Group Steiner Distances.**" -- *ESA 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Alessandro Straziota.
+- "**Temporal Queries for Dynamic Temporal Forests.**" -- *ISAAC 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
 
-# Grants
-- 2025: \$1,000.00 for The Eighteenth ACM International Conference on Web Search and Data Mining.
+## Grants
+#### 2025
+- \$1,000.00 for The Eighteenth ACM International Conference on Web Search and Data Mining.
 
+------
 
 > [!WARNING]
 > This page is a work in progress, so it contains only few information about me, and it is not yet complete.
