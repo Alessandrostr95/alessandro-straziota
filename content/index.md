@@ -31,11 +31,11 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 
 ## Pubblications
 #### 2025
-- "**Maintaining $k$-MinHash Signatures over Fully-Dynamic Data Streams with Recovery.**" -- *WSDM 2025* -- Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota.
 - "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- under review -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri.
+- "**Maintaining $k$-MinHash Signatures over Fully-Dynamic Data Streams with Recovery.**" -- *WSDM 2025* -- Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota.
 #### 2024
-- "**Graph Spanners for Group Steiner Distances.**" -- *ESA 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Alessandro Straziota.
 - "**Temporal Queries for Dynamic Temporal Forests.**" -- *ISAAC 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
+- "**Graph Spanners for Group Steiner Distances.**" -- *ESA 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Alessandro Straziota.
 
 ## Grants
 #### 2025
