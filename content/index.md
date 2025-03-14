@@ -31,15 +31,19 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 
 ## Pubblications
 #### 2025
-- "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- under review -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri.
+- "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- under review -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri. ([full version](https://arxiv.org/abs/2502.19205))
 - "**Maintaining $k$-MinHash Signatures over Fully-Dynamic Data Streams with Recovery.**" -- *WSDM 2025* -- Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2407.21614) -- [WSDM'25 proceedings](https://dl.acm.org/doi/10.1145/3701551.3703491) -- [[wsdm25/presentation/slides.pdf|presentation]] -- [[wsdm25/poster/posterA0.pdf|poster]] -- [code](https://github.com/Alessandrostr95/DynamicMinHash))
 #### 2024
-- "**Temporal Queries for Dynamic Temporal Forests.**" -- *ISAAC 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
-- "**Graph Spanners for Group Steiner Distances.**" -- *ESA 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Alessandro Straziota.
+- "**Temporal Queries for Dynamic Temporal Forests.**" -- *ISAAC 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota. ([full version](https://arxiv.org/abs/2409.18750) -- [ISAAC'24 proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2024.11) -- [[isaac24/presentation/slides.pdf|presentation]])
+- "**Graph Spanners for Group Steiner Distances.**" -- *ESA 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Alessandro Straziota. ([full version](https://arxiv.org/abs/2407.01431) -- [ESA'24 proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2024.25) -- [[esa24/presentation/slides.pdf|presentation]])
 
 ## Grants
 #### 2025
 - \$1,000.00 for The Eighteenth ACM International Conference on Web Search and Data Mining.
+
+## Workshops
+#### 2024
+- Poster session at **[CACN -- Computational Aspects of Complex Networks](https://www.mat.uniroma2.it/progetto/Events_pages/2024/Cacn2024/page-cacn2024.php)**.
 
 ------
 
