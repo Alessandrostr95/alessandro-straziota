@@ -17,7 +17,7 @@ Most of all, I love learning new programming languages and paradigms.
 
 Maybe all this sounds a bit boring to you. Maybe you are right.
 But I assure you, I do have "normal" hobbies too!
-For example, I enjoy painting miniatures (see [[images/minis/karazai_1.jpg|this]] or [[images/minis/knight-vexillor_1.jpg|this]]), and I love riding my motorcycle (see [[images/moto/moto.png|this]]).
+For example, I enjoy painting miniatures (see [[images/minis/karazai_1.jpg|this]] or [[images/minis/knight-vexillor_1.jpg|this]]), and I love riding my motorcycle (see [[images/others/moto1.jpg|this]]).
 
 That's pretty much all I have to say, mostly because, unfortunately, my days only have 24 hours.
 And after sleeping and taking care of other basic needs, there's not much time left for additional hobbies.
@@ -32,7 +32,7 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 ## Pubblications
 #### 2025
 - "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- under review -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri.
-- "**Maintaining $k$-MinHash Signatures over Fully-Dynamic Data Streams with Recovery.**" -- *WSDM 2025* -- Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota.
+- "**Maintaining $k$-MinHash Signatures over Fully-Dynamic Data Streams with Recovery.**" -- *WSDM 2025* -- Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2407.21614) -- [WSDM'25 proceedings](https://dl.acm.org/doi/10.1145/3701551.3703491) -- [[wsdm25/presentation/slides.pdf|presentation]] -- [[wsdm25/poster/posterA0.pdf|poster]] -- [code](https://github.com/Alessandrostr95/DynamicMinHash))
 #### 2024
 - "**Temporal Queries for Dynamic Temporal Forests.**" -- *ISAAC 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
 - "**Graph Spanners for Group Steiner Distances.**" -- *ESA 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Alessandro Straziota.
