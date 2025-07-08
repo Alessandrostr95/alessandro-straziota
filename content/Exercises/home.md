@@ -21,10 +21,14 @@ So I have decided to use this page to write down those little proofs and exercis
 
 
 #### Spectral Graph Theory
-- [[Exercises/Spectral Graph Theory/01.md | Maximum Eigenvalue of a Matrix]]
+- [[Exercises/Spectral Graph Theory/01|Maximum Eigenvalue of a Matrix]]
 
 #### Random Graphs
-- [[Exercises/Random Graphs/01.md | Erdős-Rényi Random Graphs]]
+- [[Exercises/Random Graphs/01|Erdős-Rényi Random Graphs]]
+- [[Exercises/Random Graphs/02|Finding a Planted Clique]]
 
 #### Probability
-- [[Exercises/Probability/01.md | Concentration Inequalities]]
+- [[Exercises/Probability/01|Concentration Inequalities]]
+
+#### Some Calculations
+- [[Exercises/Some Calculations/01|Useful Asymptotic Calculations]]
