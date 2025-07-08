@@ -7,13 +7,13 @@ author: Alessandro Straziota
 Welcome, visitor!
 Let me introduce myself: as you can read in bold at the top-left of this page, my name is Alessandro Straziota, and I am a PhD student in Data Science at the [University of Rome Tor Vergata](https://web.uniroma2.it/).
 My main research interests (and my actual research work as PhD) lie in theoretical computer science, particularly in **Data Structures** and **Data Sketches**.
-What? You've never heard of data sketches?
-Well, sooner or later, I will write an article about them on this site, but for now, just know that they are compact and highly efficient **probabilistic** data structures.
+<!-- What? You've never heard of data sketches?
+Well, sooner or later, I will write an article about them on this site, but for now, just know that they are compact and highly efficient **probabilistic** data structures. -->
 
-As I already mentioned, I'm passionate about theoretical computer science. But that's not all...
+As I just mentioned, I'm passionate about theoretical computer science. But that's not all...
 I'm interested in computer science in general, in every aspect of it -- both theoretical and practical.
 So, besides studying complex theorems and proofs, I have a lot of fun programming and tinkering with computers.
-Most of all, I love learning new programming languages and paradigms.
+Most of all, I love implementing data structures in `C++`, learning new programming languages and paradigms.
 
 Maybe all this sounds a bit boring to you. Maybe you are right.
 But I assure you, I do have "normal" hobbies too!

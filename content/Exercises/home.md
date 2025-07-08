@@ -21,7 +21,7 @@ So I have decided to use this page to write down those little proofs and exercis
 
 
 #### Spectral Graph Theory
-- [[Exercises/Spectral Graph Theory/01.md | Maximum Eigenvalue of a Matrix]]A
+- [[Exercises/Spectral Graph Theory/01.md | Maximum Eigenvalue of a Matrix]]
 
 #### Random Graphs
 - [[Exercises/Random Graphs/01.md | Erdős-Rényi Random Graphs]]
