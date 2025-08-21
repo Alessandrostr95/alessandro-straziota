@@ -3,10 +3,16 @@ title: About Me
 author: Alessandro Straziota
 ---
 
-# Who I am
+## Who I am ?
 Welcome, visitor!
 Let me introduce myself: as you can read in bold at the top-left of this page, my name is Alessandro Straziota, and I am a PhD student in Data Science at the [University of Rome Tor Vergata](https://web.uniroma2.it/).
-My main research interests (and my actual research work as PhD) lie in theoretical computer science, particularly in **Data Structures** and **Data Sketches**.
+My main research interests (and my actual research work as PhD) lie in **Theoretical Computer Science**, particularly in **Data Structures** and **Randomized Algorithms for Dynamic/Streaming Data**.
+
+<div style="float: right; margin-left: 1rem; max-width: 35%; margin-right: 1rem; text-align: center;">
+<img src="images/others/e6644120-71ee-4673-9c5e-2cbe2a75f283-crop.jpg" alt="Me on my motorcycle" style="border-radius: 10px;">
+<em>A photo of myself on my motorcycle.</em>
+</div>
+
 <!-- What? You've never heard of data sketches?
 Well, sooner or later, I will write an article about them on this site, but for now, just know that they are compact and highly efficient **probabilistic** data structures. -->
 
@@ -17,7 +23,7 @@ Most of all, I love implementing data structures in `C++`, learning new programm
 
 Maybe all this sounds a bit boring to you. Maybe you are right.
 But I assure you, I do have "normal" hobbies too!
-For example, I enjoy painting miniatures (see [[images/minis/karazai_1.jpg|this]] or [[images/minis/knight-vexillor_1.jpg|this]]), and I love riding my motorcycle (see [[images/others/moto1.jpg|this]]).
+For example, I enjoy painting miniatures (see [[images/minis/karazai_1.jpg|this]] or [[images/minis/knight-vexillor_1.jpg|this]]), and I love riding my motorcycle (see right 👉).
 
 That's pretty much all I have to say, mostly because, unfortunately, my days only have 24 hours.
 And after sleeping and taking care of other basic needs, there's not much time left for additional hobbies.
@@ -45,6 +51,13 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 ## Workshops
 #### 2024
 - Poster session at **[CACN -- Computational Aspects of Complex Networks](https://www.mat.uniroma2.it/progetto/Events_pages/2024/Cacn2024/page-cacn2024.php)**.
+
+## Teaching
+- **2023 - present**: Tutor for Data Structures and Algorithms course at University of Rome Tor Vergata.
+- **Winter 2024**: four lectures on Advanced Data Structures course at University of Rome Tor Vergata.
+
+## Contact
+You can reach me at my email [alessandro.straziota@uniroma2.it](mailto:alessandro.straziota@uniroma2.it), or at my personal email address [alessandrostr95@gmail.com](mailto:alessandrostr95@gmail.com).
 
 ------
 
