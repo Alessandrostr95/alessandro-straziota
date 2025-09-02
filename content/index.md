@@ -38,7 +38,7 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 ## Publications
 #### 2025
 - "**Almost Tight Oracles for Fastest-Path Queries on Temporal Trees**" -- *ALGOWIN 2025* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
-- "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- *VLDB 2025* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri. ([full version](https://arxiv.org/abs/2502.19205))
+- "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- *VLDB 2025* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri. ([full version](https://arxiv.org/abs/2502.19205) -- [[vldb25/presentation/approximate_two_hop.pdf|presentation]] -- [[vldb25/poster/posterA0.pdf|poster]])
 - "**Maintaining $k$-MinHash Signatures over Fully-Dynamic Data Streams with Recovery.**" -- *WSDM 2025* -- Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2407.21614) -- [WSDM'25 proceedings](https://dl.acm.org/doi/10.1145/3701551.3703491) -- [[wsdm25/presentation/slides.pdf|presentation]] -- [[wsdm25/poster/posterA0.pdf|poster]] -- [code](https://github.com/Alessandrostr95/DynamicMinHash))
 #### 2024
 - "**Temporal Queries for Dynamic Temporal Forests.**" -- *ISAAC 2024* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota. ([full version](https://arxiv.org/abs/2409.18750) -- [ISAAC'24 proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ISAAC.2024.11) -- [[isaac24/presentation/slides.pdf|presentation]])
