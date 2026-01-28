@@ -49,6 +49,9 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 - \$1,000.00 for The Eighteenth ACM International Conference on Web Search and Data Mining.
 
 ## Workshops
+#### 2025
+- Poster session at **[CACN -- Computational Aspects of Complex Networks and Artificial Intelligence](https://www.mat.uniroma2.it/bertaccini/CACN25/)**.
+
 #### 2024
 - Poster session at **[CACN -- Computational Aspects of Complex Networks](https://www.mat.uniroma2.it/progetto/Events_pages/2024/Cacn2024/page-cacn2024.php)**.
 
