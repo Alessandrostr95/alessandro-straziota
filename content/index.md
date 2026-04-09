@@ -36,6 +36,9 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 - **PhD in Data Science**, University of Rome Tor Vergata, 2023 - present
 
 ## Publications
+#### 2026
+- "**Detecting Large Quasi-cliques on Dynamic Networks**" -- *under review* -- Luciano Gualà, Simone Pellegrini, Luca Pepè Sciarria, Alessandro Straziota.
+<!-- - "**A Tour of Locality Sensitive Filtering on the Sphere**" -- *under review* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Emanuele Natale, Luca Pepè Sciarria, Alessandro Straziota. -->
 #### 2025
 - "**Almost Tight Oracles for Fastest-Path Queries on Temporal Trees**" -- *ALGOWIN 2025* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
 - "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- *VLDB 2025* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri. ([full version](https://arxiv.org/abs/2502.19205) -- [[vldb25/presentation/approximate_two_hop.pdf|presentation]] -- [[vldb25/poster/posterA0.pdf|poster]])
