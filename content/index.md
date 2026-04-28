@@ -5,7 +5,7 @@ author: Alessandro Straziota
 
 ## Who I am ?
 Welcome, visitor!
-Let me introduce myself: as you can read in bold at the top-left of this page, my name is Alessandro Straziota, and I am a PhD student in Data Science at the [University of Rome Tor Vergata](https://web.uniroma2.it/), under the spervision of Prof. [Luciano Gualà](https://www.mat.uniroma2.it/~guala/), and co-supervides by Prof. [Andrea Clementi](https://scholar.google.com/citations?user=yoiAbLMAAAAJ&hl=it).
+Let me introduce myself: as you can read in bold at the top-left of this page, my name is Alessandro Straziota, and I am a PhD student in Data Science at the [University of Rome Tor Vergata](https://web.uniroma2.it/), under the spervision of Prof. [Luciano Gualà](https://www.mat.uniroma2.it/~guala/), and co-supervised by Prof. [Andrea Clementi](https://scholar.google.com/citations?user=yoiAbLMAAAAJ&hl=it).
 My main research interests (and my actual research work as PhD) lie in **Theoretical Computer Science**, particularly in **Data Structures** and **Randomized Algorithms for Dynamic/Streaming Data**.
 
 <div style="float: right; margin-left: 1rem; max-width: 35%; margin-right: 1rem; text-align: center;">
