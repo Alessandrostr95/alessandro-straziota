@@ -30,6 +30,9 @@ And after sleeping and taking care of other basic needs, there's not much time l
 
 Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita with [mozzarella di bufala](https://en.wikipedia.org/wiki/Buffalo_mozzarella) 🍕, and I love beer 🍺.[^1]
 
+## Links
+[DBLP](https://dblp.org/pid/382/6138.html) -- [Scholar](https://scholar.google.com/citations?user=yNAvwNEAAAAJ&hl=it) -- [Github](https://github.com/Alessandrostr95)
+
 ## Education
 - **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata, 2021 -- summa cum laude
 - **Master's Degree in Computer Science**, University of Rome Tor Vergata, 2023 -- summa cum laude (average grade: 30/30)
