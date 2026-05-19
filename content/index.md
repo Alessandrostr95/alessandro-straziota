@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Alessandro Straziota - About Me
 author: Alessandro Straziota
 ---
 
