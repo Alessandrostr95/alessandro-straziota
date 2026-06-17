@@ -40,7 +40,7 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 
 ## Publications
 #### 2026
-- "**Detecting Large Quasi-cliques on Dynamic Networks**" -- *under review* -- Luciano Gualà, Simone Pellegrini, Luca Pepè Sciarria, Alessandro Straziota.
+- "**Detecting Large Quasi-cliques on Dynamic Networks**" -- *under review* -- Luciano Gualà, Simone Pellegrini, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2606.05809))
 - "**A Tour of Locality Sensitive Filtering on the Sphere**" -- *under review* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Emanuele Natale, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2604.24323))
 - "**Hierarchical Spanners**" -- *under review* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
 #### 2025
