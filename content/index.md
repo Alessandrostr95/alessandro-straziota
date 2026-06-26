@@ -42,7 +42,7 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 #### 2026
 - "**Detecting Large Quasi-cliques on Dynamic Networks**" -- *under review* -- Luciano Gualà, Simone Pellegrini, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2606.05809))
 - "**A Tour of Locality Sensitive Filtering on the Sphere**" -- *under review* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Emanuele Natale, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2604.24323))
-- "**Hierarchical Spanners**" -- *under review* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
+- "**Hierarchical Spanners**" -- *ESA 2026* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
 #### 2025
 - "**Almost Tight Oracles for Fastest-Path Queries on Temporal Trees**" -- *ALGOWIN 2025* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota.
 - "**Approximate $2$-hop neighborhoods on incremental graphs: An efficient lazy approach**" -- *VLDB 2025* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Luca Pepè Sciarria, Alessandro Straziota, Matteo Stromieri. ([full version](https://arxiv.org/abs/2502.19205) -- [[vldb25/presentation/approximate_two_hop.pdf|presentation]] -- [[vldb25/poster/posterA0.pdf|poster]])
