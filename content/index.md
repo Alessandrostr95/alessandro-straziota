@@ -44,6 +44,7 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 
 ## Recent Publications
 #### 2026
+- "**Single-Layer MeMo as a Randomized Hamming-Kernel Classifier**" -- *under review* -- Alessandro Straziota.
 - "**Detecting Large Quasi-cliques on Dynamic Networks**" -- *under review* -- Luciano Gualà, Simone Pellegrini, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2606.05809))
 - "**A Tour of Locality Sensitive Filtering on the Sphere**" -- *under review* -- Luca Becchetti, Andrea Clementi, Luciano Gualà, Emanuele Natale, Luca Pepè Sciarria, Alessandro Straziota. ([full version](https://arxiv.org/abs/2604.24323))
 - "**Hierarchical Spanners**" -- *ESA 2026* -- Davide Bilò, Luciano Gualà, Stefano Leucci, Guido Proietti, Alessandro Straziota. ([proceedings](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.ESA.2026.145) -- [[esa26/presentation/hierarchical_spanners.pdf|presentation]])
