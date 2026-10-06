@@ -38,9 +38,9 @@ Oh, almost forgot! My favorite color is green, my favorite pizza is Margherita w
 <!-- - **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata, 2021 -- summa cum laude
 - **Master's Degree in Computer Science**, University of Rome Tor Vergata, 2023 -- summa cum laude (average grade: 30/30)
 - **PhD in Data Science**, University of Rome Tor Vergata, 2023 - present -->
-- **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata -- summa cum laude.
-- **Master's Degree in Computer Science**, University of Rome Tor Vergata -- summa cum laude (average grade: 30/30).
-- **PhD in Data Science**, University of Rome Tor Vergata.
+- **Bachelor's Degree in Computer Science**, University of Rome Tor Vergata -- summa cum laude
+- **Master's Degree in Computer Science**, University of Rome Tor Vergata -- summa cum laude (average grade: 30/30)
+- **PhD in Data Science**, University of Rome Tor Vergata
 
 ## Recent Publications
 #### 2026
