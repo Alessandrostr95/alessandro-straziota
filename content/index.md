@@ -3,6 +3,10 @@ title: Alessandro Straziota - About Me
 author: Alessandro Straziota
 date: 2026-02-13
 ---
+<!-- A person's worth lies not in the truth they carry in their pocket, but in the honest pursuit that brought them to it -->
+<!-- Il valore di un essere umano non sta nella verità che ha in tasca, ma nella ricerca sincera che ha fatto per arrivarci. -->
+
+> [!quote] A person's worth lies not in the truth they possess, but in the sincerity of the search that led them to it.
 
 ## Who I am ?
 Welcome, visitor!
